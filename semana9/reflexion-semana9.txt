@@ -1,0 +1,13 @@
+Es importante que las plataformas tecnológicas comunitarias funcionen de manera estable y segura porque permiten que las personas puedan comunicarse y acceder a información sin interrupciones.
+
+Un servidor estable garantiza que los servicios estén disponibles en todo momento, lo cual es clave en sistemas que manejan información comunitaria.
+
+La seguridad ayuda a proteger los datos de los usuarios y evita accesos no autorizados.
+
+El uso de Node.js y Express facilita la creación de servidores simples pero funcionales.
+
+Los conceptos de puertos y logs permiten monitorear el comportamiento del sistema.
+
+Si un servidor falla constantemente, la confianza de los usuarios se pierde.
+
+Por eso es importante mantener buenas prácticas de estabilidad y seguridad en cualquier plataforma.
