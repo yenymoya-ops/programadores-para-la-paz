@@ -1,0 +1,6 @@
+
+Durante esta semana aprendí cómo funcionan las APIs y la importancia de enviar y recibir datos en formato JSON. También entendí el uso de req.body para procesar información en el servidor.
+
+Me di cuenta de que la validación de datos es clave para evitar errores en las aplicaciones y asegurar que el sistema funcione correctamente.
+
+Este conocimiento es importante porque permite construir aplicaciones más organizadas, seguras y funcionales.

@@ -1,0 +1,13 @@
+Incidencia detectada en la API
+
+Descripción:
+Se presentó un error al enviar una petición POST al servidor. Los datos en formato JSON no eran válidos, lo que provocó que el sistema retornara un error 400.
+
+Causa probable:
+Estructura incorrecta del cuerpo de la solicitud (req.body mal formado o incompleto).
+
+Solución aplicada:
+Se validó el formato JSON antes de enviar la petición y se corrigió la estructura de los datos.
+
+Resultado:
+La API volvió a responder correctamente y procesa las solicitudes sin errores.

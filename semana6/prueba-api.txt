@@ -1,0 +1,6 @@
+Prueba de API Semana 6
+
+1. La API responde correctamente a solicitudes GET.
+2. Se validan correctamente los datos enviados en formato JSON.
+3. El servidor procesa la información y retorna respuestas estructuradas.
+4. Se comprobó el uso de req.body en peticiones POST.
