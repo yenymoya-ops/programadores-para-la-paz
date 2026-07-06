@@ -1,0 +1,9 @@
+La creación de un sistema de reportes comunitarios permite que las personas puedan registrar y consultar problemas de su entorno de forma organizada.
+
+Esto facilita la comunicación entre la comunidad y las entidades responsables, mejorando la respuesta ante incidencias.
+
+El uso de APIs con Express permite estructurar estos datos y gestionarlos de manera sencilla.
+
+Aprendí que los arrays en memoria son una forma básica pero útil de almacenar información temporal mientras el servidor está activo.
+
+Este tipo de sistemas son la base de aplicaciones más complejas que utilizan bases de datos reales.

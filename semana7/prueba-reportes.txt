@@ -1,0 +1,7 @@
+Cuando se consulta la ruta GET /reportes, el sistema muestra todos los reportes almacenados en memoria.
+
+Al inicio la respuesta es un arreglo vacío porque no hay datos registrados.
+
+Después de enviar un reporte con POST, el sistema guarda la información en un array llamado reportes.
+
+Al volver a consultar GET /reportes, aparece el reporte registrado con su id, tipo y descripción.
