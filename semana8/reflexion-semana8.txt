@@ -1,0 +1,13 @@
+La seguridad digital es fundamental en las plataformas tecnológicas porque protege la información de los usuarios y evita accesos no autorizados.
+
+En comunidades digitales, donde muchas personas interactúan, es importante garantizar la privacidad de los datos y la integridad del sistema.
+
+Si no se aplican buenas prácticas de seguridad, la información puede ser robada, alterada o eliminada.
+
+El uso de contraseñas seguras, autenticación y actualizaciones constantes ayuda a reducir riesgos.
+
+Además, conocer herramientas básicas de Linux permite entender mejor cómo funcionan los servidores.
+
+La seguridad no es opcional, es una necesidad en cualquier sistema moderno.
+
+Por eso, toda plataforma comunitaria debe priorizar la protección de datos desde su diseño.

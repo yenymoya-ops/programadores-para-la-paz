@@ -1,0 +1,5 @@
+1. No exponer datos personales de los usuarios en la plataforma.
+2. Usar contraseñas seguras y cambiarlas periódicamente.
+3. Proteger el acceso a la plataforma mediante autenticación.
+4. Registrar los accesos y actividades de los usuarios.
+5. Mantener el sistema y dependencias actualizadas para evitar vulnerabilidades.
