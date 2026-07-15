@@ -1,0 +1,12 @@
+Las dos primeras tareas que realizaría son:
+
+1. Permitir registrar una incidencia.
+2. Enviar una alerta al coordinador mediante Telegram.
+
+Son las más importantes porque permiten recibir y atender rápidamente los reportes de la comunidad.
+
+Una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada sin errores.
+- Quedó registrada en Git y guardada en el repositorio.
